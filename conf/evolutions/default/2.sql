@@ -606,6 +606,7 @@ insert into computer (id,name,introduced,discontinued,company_id) values (558,'D
 insert into computer (id,name,introduced,discontinued,company_id) values (559,'DECmate',null,null,10);
 insert into computer (id,name,introduced,discontinued,company_id) values (560,'DECsystem',null,null,10);
 insert into computer (id,name,introduced,discontinued,company_id) values (561,'NetApp Filer',null,null,null);
+insert into computer (id,name,introduced,discontinued,company_id) values (562,'DEC GT40',null,null,10);
 
 # #- !Downs
 
