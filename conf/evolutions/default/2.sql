@@ -607,6 +607,12 @@ insert into computer (id,name,introduced,discontinued,company_id) values (559,'D
 insert into computer (id,name,introduced,discontinued,company_id) values (560,'DECsystem',null,null,10);
 insert into computer (id,name,introduced,discontinued,company_id) values (561,'NetApp Filer',null,null,null);
 insert into computer (id,name,introduced,discontinued,company_id) values (562,'DEC GT40',null,null,10);
+insert into computer (id,name,introduced,discontinued,company_id) values (563,'ecoATM',null,null,null);
+insert into computer (id,name,introduced,discontinued,company_id) values (564,'MindWave BrainCubed Education Bundle',null,null,null);
+insert into computer (id,name,introduced,discontinued,company_id) values (565,'PalmPilot',null,null,null);
+insert into computer (id,name,introduced,discontinued,company_id) values (566,'Upcoming iPhone 5',null,null,1);
+insert into computer (id,name,introduced,discontinued,company_id) values (567,'Dell Inspiron 560 Desktop Computer ',null,null,null);
+insert into computer (id,name,introduced,discontinued,company_id) values (568,'IPad 2',null,null,1);
 
 # #- !Downs
 
